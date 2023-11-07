@@ -26,7 +26,7 @@ Detecting credit card fraud is an intricate and ever-evolving discipline, demand
 
 ### Table of Contents
 
-1. [Loading all Required Libraries](#1--Loading all Required Libraries)
+1. [Loading all Required Libraries](#1)
 2. [Load Data](#2)
 3. [EDA (Exploratory Data Analysis)](#3)
    - 3.1 [Handling Missing Values](#3.1)
